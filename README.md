@@ -31,6 +31,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://media1.tenor.com/m/VWqRy13b-agAAAAC/imam-mahdi-as.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.facebook.com/oussama.ouaadich" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -48,12 +54,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/VWqRy13b-agAAAAC/imam-mahdi-as.gif"  />
 
 ###
 
