@@ -51,4 +51,4 @@
 
 ###
 
-<h2 align="center">[![oouaadic's 42 stats](https://badge.mediaplus.ma/black/oouaadic)](https://github.com/oakoudad/badge42)</h2>
+<h2 align="center"> [![oouaadic's 42 stats](https://badge.mediaplus.ma/black/oouaadic)](https://github.com/oakoudad/badge42) </h2>
