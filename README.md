@@ -51,4 +51,4 @@
 
 ###
 
-![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=oouaadic)](https://github.com/mohouyizme/1337-readme)
+<h2 align="center">[![oouaadic's 42 stats](https://badge.mediaplus.ma/black/oouaadic)](https://github.com/oakoudad/badge42)</h2>
