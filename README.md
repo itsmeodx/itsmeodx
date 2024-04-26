@@ -1,4 +1,4 @@
-<h2 align="center">With Great Responsibility Comes Great Power!</h2>
+<h2 align="center">With Great Power Comes Great Responsibility!</h2>
 
 ###
 
