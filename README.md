@@ -1,14 +1,14 @@
 <h2 align="center">With Great Power Comes Great Responsibility!</h2>
 
-###
+<!-- ###
 
 <br clear="both">
 
-<!-- <div align="center">
+<div align="center">
   <img height="300" src="https://badge.mediaplus.ma/black/oouaadic"  />
-</div> -->
+</div>
 
-###
+### -->
 
 <br clear="both">
 
