@@ -4,9 +4,9 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img height="300" src="https://badge.mediaplus.ma/black/oouaadic"  />
-</div>
+</div> -->
 
 ###
 
