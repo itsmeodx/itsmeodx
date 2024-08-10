@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/make/make-original.svg" height="30" alt="make logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/makefile/makefile-original.svg" height="30" alt="makefile logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
