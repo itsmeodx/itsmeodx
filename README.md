@@ -17,7 +17,6 @@ Name      : Oussama Ouaadich
 Handle    : itsmeodx
 School    : 1337 Coding School (42 Network) — Level 11.60
 Focus     : Systems · Modern Web - AI
-Langs     : Arabic (Native)  •  English (Fluent)  •  French (Intermediate)
 ```
 
 I build things from scratch because I need to understand how they work — from C and systems programming to full-stack web platforms. I write clean code, take ownership, and I'm looking for a team where I can actually contribute.
