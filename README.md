@@ -12,7 +12,11 @@
 
 Software engineer committed to technical depth, clean code, and continuous learning. I believe in understanding how things work before building on top of them.
 
-`> currently --active: exploring AI development and its applications`
+## `> currently --active`
+
+```text
+> exploring AI development and its applications...
+```
 
 ## `> stack --list`
 
