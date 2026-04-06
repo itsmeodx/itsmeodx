@@ -1,74 +1,82 @@
-<h2 align="center">With Great Power Comes Great Responsibility!</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Oussama%20Ouaadich&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20Systems%20%7C%20Full-Stack%20%7C%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
 
-<!-- ###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img height="300" src="https://badge.mediaplus.ma/black/oouaadic"  />
+
+<img src="https://badge.mediaplus.ma/black/oouaadic" height="240" alt="42 Profile" />
+
 </div>
 
-### -->
+---
 
-<br clear="both">
-<div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67181dbc791f57dd60a51cd2?variant=dark" alt="roadmap.sh"/>
-  </a></div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeodx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeodx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## `> whoami`
 
-###
+```text
+Name      : Oussama Ouaadich
+Handle    : itsmeodx
+School    : 1337 Coding School (42 Network) — Level 11.60
+Focus     : Systems · Modern Web - AI
+Langs     : Arabic (Native)  •  English (Fluent)  •  French (Intermediate)
+```
+
+I build things from scratch because I need to understand how they work — from C and systems programming to full-stack web platforms. I write clean code, take ownership, and I'm looking for a team where I can actually contribute.
+
+- 🔧 Building tools that solve real developer pain points
+- 📡 Deep interest in **low-level systems** and **backend architecture**
+- 🤖 **Expanding into AI** — focusing on context efficiency and reasoning accuracy
+- 📈 **Perfect validation record with all bonuses** across every 42 project
+
+---
+
+## `> stack --list`
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/makefile/makefile-original.svg" height="30" alt="makefile logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,py,dart" height="28" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,reactquery" height="28" alt="Frontend stack" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nestjs,postgres,prisma" height="28" alt="Backend stack" />
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,bash,postman" height="28" alt="DevOps tools" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter" height="28" alt="Mobile stack" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## `> activity --graph`
 
-<img align="right" height="150" src="https://media1.tenor.com/m/VWqRy13b-agAAAAC/imam-mahdi-as.gif"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeodx/itsmeodx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmeodx/itsmeodx/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/itsmeodx/itsmeodx/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
-###
+---
+
+## `> connect --social`
 
 <div align="left">
-  <a href="https://www.facebook.com/oussama.ouaadich" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/itsmeodx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://t.me/itsmeodx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/itsmeodx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <!-- <a href="itsmeodx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a> -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeodx)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itsmeodx)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itsmeodx/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsmeodx)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/oussama.ouaadich)
+
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itsmeodx/itsmeodx/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
