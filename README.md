@@ -56,10 +56,10 @@ Software engineer committed to technical depth, clean code, and continuous learn
 
 <div align="left">
 
-[![Resume](https://img.shields.io/badge/Resume-Download-red?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](https://github.com/itsmeodx/resume/blob/main/out/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeodx)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itsmeodx)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itsmeodx/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0f0c29)](https://github.com/itsmeodx/resume/blob/main/out/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/itsmeodx)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29)](https://twitter.com/itsmeodx)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29)](https://www.instagram.com/itsmeodx/)
 
 </div>
 
